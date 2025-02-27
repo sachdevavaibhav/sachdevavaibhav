@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **contactvaibhav.2001@gmail.com**
 
-- 📄 Know about my experiences [Resume.pdf](https://drive.google.com/file/d/1hka-MEeef98sJ-djojdWTumDavLsDJfx/view?usp=drive_link)
+- 📄 Know about my experiences [Resume.pdf](https://drive.google.com/file/d/1CCbuEKOj_cjEpevn1gflXbaV-l69U0bG/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
