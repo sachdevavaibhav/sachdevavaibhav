@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Sachdeva</h1>
-<h3 align="center">Web Developer and Machine Learning Enthusiast</h3>
+<h3 align="center">Building for the maritime @rudrasecure</h3>
 
-- 🌱 I’m currently learning **React.js, Machine Learning.**
+- 🌱 I work with **React.js, Python, Backend Development & Computer Networks.**
 
 - 🤝 Checkout [ODIR Project](https://github.com/sachdevavaibhav/DeepLearning)
 
 - 👨‍💻 All of my projects are available at [https://github.com/sachdevavaibhav](https://github.com/sachdevavaibhav)
 
-- 💬 Ask me about **Web Development, Python and ML**
+- 💬 Ask me about **Web Development, Python and AI**
 
 - 📫 How to reach me **contactvaibhav.2001@gmail.com**
 
